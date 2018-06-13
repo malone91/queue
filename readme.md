@@ -11,3 +11,5 @@ PriorityBlockingQueue等。
 Queue接口自带的方法有 add remove element peek offer poll 前三个方法如果在队列为空或者满的情况下会抛出异常。
 
 在src的code中，写了一个篮子，行为有放苹果，取苹果，使用了线程，数据容器为ArrayBlockingQueue。
+
+扩展阅读，公众账号算法文摘： https://mp.weixin.qq.com/s/LA0iaJdjTaAxnBVAqD90yA 
